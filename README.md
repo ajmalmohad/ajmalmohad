@@ -14,7 +14,7 @@
 <a href="https://www.w3schools.com/css/css_intro.asp" target="_blank"> <img align="left" alt="css" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg"> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-<a href="https://vuejs.org/" target="_blank"> <img align="left" src="./svgassets/vue-js.svg" alt="vue" height="35px"/> </a>
+<a href="https://vuejs.org/" target="_blank"> <img align="left" src="./svgassets/vue-js.svg" alt="vue" height="38px"/> </a>
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a>
 
 <br>
