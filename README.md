@@ -29,7 +29,7 @@
 
 ### Give me a buzz
 [<img src='https://img.icons8.com/fluent/50/000000/github.png' alt='github' height='40'>](https://github.com/ajmalmohad)
-[<img src='https://img.icons8.com/fluent/50/000000/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/ajmal-moha-d) 
+[<img src='https://img.icons8.com/fluent/50/000000/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/ajmal-moha-d-1927831b6/) 
 [<img src='https://img.icons8.com/fluent/50/000000/instagram-new.png' alt='instagram' height='40'>](https://www.instagram.com/ajmal_mohad)  
 [<img src='https://img.icons8.com/fluent/50/000000/twitter.png' alt='twitter' height='40'>](https://twitter.com/ajmal_mohad1)  
 
