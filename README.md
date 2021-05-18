@@ -17,6 +17,8 @@
 <a href="https://vuejs.org/" target="_blank"> <img align="left" src="./svgassets/flask.svg" alt="vue" height="38px"/> </a>
 <a href="https://vuejs.org/" target="_blank"> <img align="left" src="./svgassets/mongodb.svg" alt="vue" height="38px"/> </a>
 <a href="https://vuejs.org/" target="_blank"> <img align="left" src="./svgassets/nodejs.svg" alt="vue" height="38px"/> </a>
+<a href="https://vuejs.org/" target="_blank"> <img align="left" src="./svgassets/heroku.svg" alt="vue" height="38px"/> </a>
+<a href="https://vuejs.org/" target="_blank"> <img align="left" src="./svgassets/netlify.svg" alt="vue" height="38px"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='45px'/> </a>
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a>
 
