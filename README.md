@@ -17,8 +17,6 @@
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> <img align="left" src="./svgassets/flaskwhite.svg" alt="vue" height="38px"/> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img align="left" src="./svgassets/mongodb.svg" alt="vue" height="38px"/> </a>
 <a href="https://nodejs.org/en/" target="_blank"> <img align="left" src="./svgassets/nodejs.svg" alt="vue" height="38px"/> </a>
-<a href="https://www.heroku.com/" target="_blank"> <img align="left" src="./svgassets/heroku.svg" alt="vue" height="38px"/> </a>
-<a href="https://www.netlify.com/" target="_blank"> <img align="left" src="./svgassets/netlify.svg" alt="vue" height="38px"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='45px'/> </a>
 
 <br>
