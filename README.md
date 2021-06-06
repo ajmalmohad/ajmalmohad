@@ -41,4 +41,4 @@
 [<img src='https://img.icons8.com/fluent/50/000000/twitter.png' alt='twitter' height='40'>](https://twitter.com/ajmal_mohad1)  
 
 <br>
-<a href="https://gpay.app.goo.gl/pay-AkwXsW9iPZe" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/arjun-ms/arjun-ms/master/donation.png" alt="Donate" height="38px"/> </a>
+<a href="https://gpay.app.goo.gl/pay-AkwXsW9iPZe" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/arjun-ms/arjun-ms/master/donation.png" alt="Donate" height="38px"/><p>Donate</p> </a>
