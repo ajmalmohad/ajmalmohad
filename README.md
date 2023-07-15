@@ -40,4 +40,4 @@
 [<img src='https://img.icons8.com/fluent/50/000000/twitter.png' alt='twitter' height='40'>](https://twitter.com/ajmal_mohad1)  
 
 <br>
-<a href="https://gpay.app.goo.gl/pay-AkwXsW9iPZe" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/arjun-ms/arjun-ms/master/donation.png" alt="Donate" height="38px"/><p text-align="center">Donate</p> </a>
+<a href="https://www.buymeacoffee.com/ajmalmohad" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
