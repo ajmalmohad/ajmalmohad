@@ -1,10 +1,12 @@
 ## Hi there, I'm [Ajmal](https://github.com/ajmalmohad)! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-![Profile views](https://gpvc.arturio.dev/ajmalmohad)  
-<br>
+
+<br/>
 
 ## I'm a Student, Full Stack Web Developer and a Learner!
 - I ❤️ to learn, develop and experiment with programs and awesome things on internet.
 - I ❤️ to connect with more people.
+
+<br/>
 
 ### Languages and Tools 💚
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="45px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
@@ -20,14 +22,17 @@
 <a href="https://www.netlify.com/" target="_blank"> <img align="left" src="./svgassets/netlify.svg" alt="vue" height="38px"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='45px'/> </a>
 
+<br/>
+<br/>
 
+## Stats
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ajmalmohad&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true"  alt="Ajmal's github stats" /></a>|<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmalmohad&layout=compact&theme=midnight-purple&hide_border=True" /></a> |
 | ------------- | ------------- |
-<br>
+<br/>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, Give me a buzz!</b> 😊</em>
 
-<br>
+<br/>
 
 ### Give me a buzz
 [<img src='https://img.icons8.com/fluent/50/000000/github.png' alt='github' height='40'>](https://github.com/ajmalmohad)
