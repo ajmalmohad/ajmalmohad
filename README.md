@@ -4,7 +4,7 @@
 
 👨‍💻 Seeking collaborations and open source contributions.
 
-💬 Let's chat about ```Building projects``` ```Open source``` ```Technology```
+💬 Let's chat about ```Building projects```, ```Open source```, ```Technology```
 
 📫 Contact me: ajmalmohad.hello@gmail.com, [LinkedIn](https://www.linkedin.com/in/ajmalmohad/), [Twitter](https://twitter.com/ajmalmohad_/)
 
