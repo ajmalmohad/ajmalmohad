@@ -4,7 +4,7 @@
 
 💬 Let's chat about ```Building projects```, ```Open source```, ```Technology```
 
-📫 Contact me: ajmalmohad.hello@gmail.com, [LinkedIn](https://www.linkedin.com/in/ajmalmohad/), [Twitter](https://twitter.com/ajmalmohad_/)
+📫 Contact me: ajmalajmal.2016@gmail.com, [LinkedIn](https://www.linkedin.com/in/ajmalmohad/), [Twitter](https://twitter.com/ajmalmohad_/)
 
 ⚡ Fun fact: I love low-level programming!
 
